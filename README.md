@@ -40,7 +40,7 @@ The project is fully modular, making it maintainable, scalable, and reusable for
 ---
 
 ## Circuit Diagram
-![Circuit Diagram]
+![Circuit Diagram] Circuit_Schematic.png
 
 ---
 
