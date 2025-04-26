@@ -2,7 +2,7 @@
  * led.c
  *
  * Created: 06/12/2024 17.55.23
- *  Author: Ghost Buster
+ * Author: rupesh majhi
  */ 
 
 #include <avr/io.h>
