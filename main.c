@@ -2,7 +2,7 @@
  * Microcontroller_Final.c
  *
  * Created: 06/12/2024 17.54.08
- * Author : Manisha
+ * Author : rupesh majhi
  */ 
 
 #include "main.h"
