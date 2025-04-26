@@ -2,7 +2,7 @@
  * main.h
  *
  * Created: 06/12/2024 18.13.12
- *  Author: Ghost Buster
+ * Author: rupesh majhi
  */ 
 
 
