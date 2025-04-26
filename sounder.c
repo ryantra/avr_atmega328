@@ -2,7 +2,7 @@
  * sounder.c
  *
  * Created: 06/12/2024 17.55.38
- *  Author: Ghost Buster
+ * Author: rupesh majhi
  */ 
 #define F_CPU 16000000UL // Define clock frequency as 16 MHz
 #include <avr/io.h>
