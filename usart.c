@@ -2,7 +2,7 @@
  * usart.c
  *
  * Created: 06/12/2024 17.54.29
- *  Author: Ghost Buster
+ * Author: rupesh majhi
  */ 
 
 #include "usart.h"
