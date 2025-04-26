@@ -2,7 +2,7 @@
  * adc.c
  *
  * Created: 06/12/2024 17.56.30
- *  Author: Ghost Buster
+ * Author: rupesh majhi
  */ 
 
 #include <avr/io.h>
